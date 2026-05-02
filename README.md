@@ -18,11 +18,11 @@
 </table>
 
 **duxb@github** ~ % cat **About me** <br>
-`Programming seriously programming for 4 years.` <br>
-`Studying CS, Maths, Physics.` <br>
-`Always larping.` <br>
+Programming seriously programming for 4 years. <br>
+Studying CS, Maths, Physics. <br>
+Always larping. <br>
 **duxb@github** ~ % cd **Socials** & ls $ cd .. <br>
 [Instagram](https://instagram.com/onlyduxb) <br>
 [Discord](https://discord.com/users/1121686543678066750) <br>
 [Spotify](https://open.spotify.com/user/rody75) <br>
-**duxb@github** ~ % <br>
+**duxb@github** ~ % ▋ <br>
