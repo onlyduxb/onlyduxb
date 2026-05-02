@@ -1,7 +1,8 @@
+**duxb@github** ~ % neofetch
 <table width="100%">
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG54N2Qxd3o5ajZrN3p1aGlwYnM0NXdrczVtZmdndWV2dGg1a294eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKs35oA1k40CcZW/giphy.gif" width="100%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxNzFxZXBuZ3Q4Mng4ajZ6dzhhbm91c3NuY3g3Ym1uOWY4OXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%">
     </td>
     <td width="60%" valign="top">
       <pre>
@@ -21,7 +22,7 @@
 Programming seriously programming for 4 years. <br>
 Studying CS, Maths, Physics. <br>
 Always larping. <br>
-**duxb@github** ~ % cd **Socials** & ls $ cd .. <br>
+**duxb@github** ~ % cd **Socials** & ls & cd .. <br>
 [Instagram](https://instagram.com/onlyduxb) <br>
 [Discord](https://discord.com/users/1121686543678066750) <br>
 [Spotify](https://open.spotify.com/user/rody75) <br>
