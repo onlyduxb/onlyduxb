@@ -2,7 +2,7 @@
 <table width="100%">
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxNzFxZXBuZ3Q4Mng4ajZ6dzhhbm91c3NuY3g3Ym1uOWY4OXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxNzFxZXBuZ3Q4Mng4ajZ6dzhhbm91c3NuY3g3Ym1uOWY4OXE5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="100%" height="100%">
     </td>
     <td width="60%" valign="top">
       <pre>
@@ -13,9 +13,8 @@
 <b>Uptime</b>: 18 years
 <b>Editor</b>: VS Code
 <b>Shell</b>: zsh 5.8
-<br>
 <img
-  src="terminal_colours.png" width=150>
+  src="terminal_colours.png" width=150 height=100 align="top">
 </img>
       </pre>
     </td>
