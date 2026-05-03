@@ -1,4 +1,4 @@
-**duxb@github** ~ % neofetch
+**duxb@github** ~ % fastfetch
 <table width="100%">
   <tr>
     <td width="40%" align="center" valign="top">
@@ -13,6 +13,10 @@
 <b>Uptime</b>: 18 years
 <b>Editor</b>: VS Code
 <b>Shell</b>: zsh 5.8
+<br>
+<img
+  src="terminal_colours.png" width=150>
+</img>
       </pre>
     </td>
   </tr>
