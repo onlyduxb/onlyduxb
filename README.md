@@ -23,8 +23,8 @@
 
 **duxb@github** ~ % cat **About me** <br>
 Programming seriously programming for 4 years. <br>
-Studying CS, Maths, Physics. <br>
-Always larping. <br>
+Studied CS, Maths, Physics at A level (UK). <br>
+Hoping to study CS at Univeristy. <br>
 **duxb@github** ~ % cd **Socials** & ls & cd .. <br>
 [Instagram](https://instagram.com/onlyduxb) <br>
 [Discord](https://discord.com/users/1121686543678066750) <br>
