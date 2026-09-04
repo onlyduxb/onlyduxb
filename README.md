@@ -22,11 +22,9 @@
 </table>
 
 **duxb@github** ~ % cat **About me** <br>
-Programming 4 years. <br>
-Undergraduate studying computer science. <br>
-Achieved 'A' in maths, physics, computer science. <br>
+programming 4 years. <br>
+undergraduate studying computer science. <br>
+achieved 'A' in maths, physics, computer science. <br>
 **duxb@github** ~ % cd **Socials** & ls & cd .. <br>
-[Instagram](https://instagram.com/onlyduxb) <br>
-[Discord](https://discord.com/users/1121686543678066750) <br>
-[Spotify](https://open.spotify.com/user/rody75) <br>
+[guns.lol](https://guns.lol/duxb) <br>
 **duxb@github** ~ % ▋ <br>
