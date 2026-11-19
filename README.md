@@ -8,7 +8,7 @@
       <pre>
 <b>onlyduxb@github</b>
 ------------------
-<b>OS</b>: MacOS / Arch Linux
+<b>OS</b>: MacOS
 <b>Host</b>: Cornwall, UK
 <b>Uptime</b>: 18 years
 <b>Editor</b>: VS Code
